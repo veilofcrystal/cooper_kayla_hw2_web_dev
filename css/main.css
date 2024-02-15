@@ -34,10 +34,3 @@ body {
 
     100% {background-position: 100% ;}
 }
-
-div {
-    background-color: black;
-    color: aliceblue;
-    border: 3px solid white;
-    border-radius: 10%;
-}
