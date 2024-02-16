@@ -60,7 +60,7 @@ padding-right: 15px;
     .grid-con { 
        display: grid; 
        grid-template-columns: repeat(12, minmax(0, 1fr));
-       grid-column-gap: 15;
+       grid-column-gap: 15px;
        padding-left: 10px;
        padding-right: 10px;
     }
@@ -90,7 +90,7 @@ padding-right: 15px;
     .m-col-start-9	{grid-column-start: 9;}
     .m-col-start-10	{grid-column-start: 10;}
     .m-col-start-11	{grid-column-start: 11;}
-    .m-col-start-12	{grid-column-start: 12;}
+    .m-col-start-12	{grid-column-start: 12;}   
     .m-col-start-13	{grid-column-start: 13;}
  
     .m-col-end-1	{grid-column-end: 1;}
